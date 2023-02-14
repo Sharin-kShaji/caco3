@@ -2,9 +2,9 @@
 
 ## Technology Stack
 
-* Jdk (11)
-* SpringBoot 
-* Postgres
+* Jdk 11
+* SpringBoot 2.7.8
+* Postgres 14
 
 ## API 
 
